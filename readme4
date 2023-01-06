@@ -1,0 +1,39 @@
+Reference
+[1] "Accent Classification," Phumchanit
+Watanaprakornkul, Chanat Eksombatchai, Peter
+Chien.
+[2] "Accent Issues in Large Vocabulary
+Continuous Speech Recognition (LVCSR)," Eric
+Chang, Chao Huang, and Tao Chen. Microsoft
+Research. August 2011.
+[3] "Accent Recognition with Neural Network,"
+Matthew Seal, Matthew Murray, Ziyad Khaleq.
+[4] "Accurate Short-Term Analysis Of The
+Fundamental Frequency And The Harmonics-ToNoise Ratio Of A Sampled Sound." Paul Boersma.
+Institute of Phonetic Sciences, University of
+Amsterdam. 1993.
+[5] "Foreign Accent Classification," Paul Chen,
+Julia Lee, Julia Neidert.
+[6] "melfcc.m," PLP and RASTA (and MFCC, and
+inversion) in Matlab. Daniel P. W. Ellis.
+December 2014. Online web resource. 2005.
+<http://www.ee.columbia.edu/~dpwe/resource
+s/matlab/rastamat/>
+[7] "The Munich Automatic Segmentation
+System." Ludwig-Maximilians-Universitat,
+Munich, Germany. Florian Schiel. December
+2014. Web. 21 March 2013.
+<http://www.bas.unimuenchen.de/Bas/BasMAUS.html>
+[8] "Phonemic Segmentation and Labelling using
+the MAUS Technique," Florian Schiel, Christoph
+Draxler, Jonathan Harrington. Bavarian Archive
+for Speech Signals, Institute for Phonetics and
+Speech Processing. Ludwig-MaximiliansUniversitat, Munchen, Germany.
+[9] "Praat: doing phonetics by computer." Paul
+Boersma, David Weenick. December 2014.
+Computer program. University of Amsterdam. 13
+November 2014. <http://www.praat.org/>
+[10] "The Speech Accent Archive." George Mason
+University. Steven H. Weinberger. December
+2014. Web. 20 November 2014.
+<http://accent.gmu.edu/>
